@@ -1,1 +1,13 @@
-# Launcher
+<h1 align="center">Bienvenue sur la page de notre Launcher ! 👋
+<br><img src="https://i.ibb.co/x6qnvMz/9ac0db9c472f3a43c459193b46a97689.png" width=256></h1>
+
+Notre launcher vous permet de vous jouer rapidement à EterCube, tout en incluant des mods qui seront utiles à votre aventure !
+
+## 👤 Auteur.s
+
+- **[Retro&Dev](https://github.com/RetroAndDev)**
+- [ArcaDev](https://github.com/ArcadeProgram)
+- [Opalix](https://github.com/SundayMC)
+
+
+## [📝  License](https://github.com/EterCube/Launcher/LICENSE)

@@ -6,8 +6,5 @@ Notre launcher vous permet de jouer rapidement à EterCube, tout en incluant des
 ## 👤 Auteur.s
 
 - **[Retro&Dev](https://github.com/RetroAndDev)**
-- [ArcaDev](https://github.com/ArcadeProgram)
-- [Opalix](https://github.com/SundayMC)
-
 
 ## [📝  License](https://github.com/EterCube/Launcher/LICENSE)
